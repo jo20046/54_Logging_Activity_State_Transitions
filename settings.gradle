@@ -1,0 +1,2 @@
+include ':app'
+rootProject.name = "54_Logging_Activity_State_Transitions"
